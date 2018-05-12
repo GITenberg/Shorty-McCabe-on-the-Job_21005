@@ -1,0 +1,35 @@
+_repo: Shorty-McCabe-on-the-Job_21005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Sewell
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '7287'
+    url: http://www.gutenberg.org/2009/agents/7287
+description: ''
+gutenberg_issued: '2007-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+tableOfContents: Wishing a new one on Shorty -- A few squirms by Bayard -- Peeking
+  in on Pedders -- Two singles to Goober -- The case of a female party -- How Millie
+  shook the jinx -- Reverse English on Sonny Boy -- Gumming Gopher to the map -- What
+  Lindy had up her sleeve -- A case of nobody home -- Under the wire with Edwin --
+  A fifty-fifty split with Hunk -- A follow through by Eggy -- Catching up with Gerald
+  -- Shorty hears from Pemaquid -- Scratch one on Bulgaroo -- Bayard ducks his past
+  -- Trailing Dudley through a trance -- A little while with Alvin.
+title: Shorty McCabe on the Job
+url: http://www.gutenberg.org/ebooks/21005
